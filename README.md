@@ -28,7 +28,7 @@ php artisan admin:install
 
 ### 🏆 Run
 
-- [http://localhost:8000](http://localhost:8000)
+- [http://localhost:8000/admin](http://localhost:8000/admin) username : `admin` password : `admin`
 
 ```shell
 php artisan serve
